@@ -1,24 +1,26 @@
 [<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" width="100"/>](file_type_flutter_icon_130599.png)
-# Expenses
+# Expenses Management
 Expense tracking 💰 IOS & Android APP using Flutter + Dart 
+
+#
 
 ### Objectives 📝
 
-- [ ] Combinando Widgets
+- [ ] Combining widgets
 - [ ] Column & Row
-- [ ] Criando Classe de Modelo (Transaction)
-- [ ] Item Personalizado para lista
-- [ ] Aplicando Estilo no Container,Texto
-- [ ] Desafio Estilo Título & Data
-- [ ] Container vs Column/Row
-- [ ] Usando Interpolação de Strings
-- [ ] Instalando Pacote Externo Intl
-- [ ] Usando TextField
-- [ ] Dividindo App em Widgets
-- [ ] Adicionando/Excluindo Transações
-- [ ] Lista com Rolagem, ListView
+- [ ] Creating Model Class (Transaction)
+- [ ] Custom item for list
+- [ ] Applying Style to the Container, Text
+- [ ] Title & Date Style Challenge
+- [ ] Container vs Column / Row
+- [ ] Using String Interpolation
+- [ ] Installing External Intl Package
+- [ ] Using TextField
+- [ ] Splitting App into Widgets
+- [ ] Adding / Deleting Transactions
+- [ ] Scrollable List, ListView
 - [ ] Trasaction Form
-- [ ] Parâmetros em Stateful Widget
-- [ ] Estilo com Theme, Fontes Personalizadas; Adicionando Imagem
+- [ ] Parameters in Stateful Widget
+- [ ] Style with Theme, Custom Fonts; Adding Image
 - [ ] Chart Widget
-- [ ] Ajustando Altura da Lista
+- [ ] Adjusting List Height
